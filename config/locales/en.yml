@@ -30,4 +30,10 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  app_title: JM Studios
+  app_description: A web application to help you book a studio session!
+
+  home:
+    home:
+      title: JM Studio Bookings
+      welcome: Welcome to JM Studios. Let's book a session!
